@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|c:\\users\\ma\u0142gorzata\\downloads\\storemanagement-main\\storemanagement-main\\storemanagement\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\dal\\entities\\clothes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\dal\\entities\\clothes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\dal\\repositories\\clothesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\dal\\repositories\\clothesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\presenters\\workeraddproductpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\presenters\\workeraddproductpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\views\\workerviews\\workeraddproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\workerviews\\workeraddproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\presenters\\workerproductsviewpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\presenters\\workerproductsviewpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\views\\workerviews\\iworkeraddproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\workerviews\\iworkeraddproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\views\\workerviews\\workerproductsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\workerviews\\workerproductsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\views\\workerviews\\iworkerproductsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\workerviews\\iworkerproductsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\views\\workerviews\\workeraddproductview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\workerviews\\workeraddproductview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\views\\workerviews\\workerproductsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\workerviews\\workerproductsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\views\\workerviews\\workeraddproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\workerviews\\workeraddproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\presenters\\addnewuserpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\presenters\\addnewuserpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\views\\startviews\\iaddnewuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\views\\startviews\\iaddnewuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\storemanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180988AC-393B-45C8-94A5-70C31A071D26}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 696,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\DAL\\DBConnection.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\DAL\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\DAL\\DBConnection.cs",
+              "RelativeToolTip": "StoreManagement\\DAL\\DBConnection.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:10:30.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clothes.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\DAL\\Entities\\Clothes.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\DAL\\Entities\\Clothes.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\DAL\\Entities\\Clothes.cs",
+              "RelativeToolTip": "StoreManagement\\DAL\\Entities\\Clothes.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:10:24.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClothesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\DAL\\Repositories\\ClothesRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\DAL\\Repositories\\ClothesRepository.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\DAL\\Repositories\\ClothesRepository.cs",
+              "RelativeToolTip": "StoreManagement\\DAL\\Repositories\\ClothesRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:08:20.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerAddProductPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Presenters\\WorkerAddProductPresenter.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Presenters\\WorkerAddProductPresenter.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Presenters\\WorkerAddProductPresenter.cs",
+              "RelativeToolTip": "StoreManagement\\Presenters\\WorkerAddProductPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:05:42.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkerAddProductView.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.cs",
+              "RelativeToolTip": "StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwDQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:02:08.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWorkerAddProductView.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\IWorkerAddProductView.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\WorkerViews\\IWorkerAddProductView.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\IWorkerAddProductView.cs",
+              "RelativeToolTip": "StoreManagement\\Views\\WorkerViews\\IWorkerAddProductView.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:57:57.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Models\\Model.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\Model.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAWwHgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:55:35.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkerProductsViewPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Presenters\\WorkerProductsViewPresenter.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Presenters\\WorkerProductsViewPresenter.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Presenters\\WorkerProductsViewPresenter.cs",
+              "RelativeToolTip": "StoreManagement\\Presenters\\WorkerProductsViewPresenter.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:53:12.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkerProductsView.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerProductsView.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\WorkerViews\\WorkerProductsView.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerProductsView.cs",
+              "RelativeToolTip": "StoreManagement\\Views\\WorkerViews\\WorkerProductsView.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:49:03.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWorkerProductsView.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\IWorkerProductsView.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\WorkerViews\\IWorkerProductsView.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\IWorkerProductsView.cs",
+              "RelativeToolTip": "StoreManagement\\Views\\WorkerViews\\IWorkerProductsView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:52:33.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkerAddProductView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.Designer.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.Designer.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.Designer.cs",
+              "RelativeToolTip": "StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.Designer.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAYwB0BAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:26:40.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkerProductsView.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerProductsView.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\WorkerViews\\WorkerProductsView.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerProductsView.cs [Projekt]",
+              "RelativeToolTip": "StoreManagement\\Views\\WorkerViews\\WorkerProductsView.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:47:26.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkerAddProductView.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.cs [Projekt]",
+              "RelativeToolTip": "StoreManagement\\Views\\WorkerViews\\WorkerAddProductView.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:47:10.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAddNewUserView.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\StartViews\\IAddNewUserView.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Views\\StartViews\\IAddNewUserView.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Views\\StartViews\\IAddNewUserView.cs",
+              "RelativeToolTip": "StoreManagement\\Views\\StartViews\\IAddNewUserView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:35:09.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddNewUserPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Presenters\\AddNewUserPresenter.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Presenters\\AddNewUserPresenter.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\Presenters\\AddNewUserPresenter.cs",
+              "RelativeToolTip": "StoreManagement\\Presenters\\AddNewUserPresenter.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:35:03.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Ma\u0142gorzata\\Downloads\\StoreManagement-main\\StoreManagement-main\\StoreManagement\\MainForm.cs",
+              "RelativeToolTip": "StoreManagement\\MainForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:07:09.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

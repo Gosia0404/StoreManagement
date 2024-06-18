@@ -1,0 +1,88 @@
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe.config
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\StoreManagement.pdb
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\MySql.Data.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Buffers.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.IO.Pipelines.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Memory.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\ZstdSharp.dll
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\Google.Protobuf.pdb
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\Google.Protobuf.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\MySql.Data.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Buffers.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.IO.Pipelines.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Memory.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.AssemblyReference.cache
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Properties.Resources.resources
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.GenerateResource.cache
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\obj\Debug\StoreMan.B2A7598D.Up2Date
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\obj\Debug\StoreManagement.exe
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\obj\Debug\StoreManagement.pdb
+C:\Users\marta\OneDrive - biurox365ml\Pulpit\studia\sem4\programowanie_obiektowe\projekt\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Views.StartViews.AddNewUserView.resources
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\StoreManagement.exe.config
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\StoreManagement.exe
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\StoreManagement.pdb
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\MySql.Data.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Buffers.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Memory.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\ZstdSharp.dll
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\Google.Protobuf.pdb
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\Google.Protobuf.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\MySql.Data.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Buffers.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Memory.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.csproj.AssemblyReference.cache
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.Properties.Resources.resources
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.Views.StartViews.AddNewUserView.resources
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.csproj.GenerateResource.cache
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreMan.B2A7598D.Up2Date
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.exe
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.pdb
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.MainForm.resources
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.Views.WorkerAddProductView.resources
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.Views.WorkerProductsView.resources
+C:\Users\Małgorzata\Downloads\StoreManagement-main\StoreManagement-main\StoreManagement\obj\Debug\StoreManagement.Views.WorkerViews.WorkerEditProductView.resources
